@@ -1,0 +1,68 @@
+10-11-2022	10:20:59	5e4b1592-eea8-4001-bd5e-85382b981df5	Error	Block By CORS
+10-11-2022	10:23:47	c5f13bb4-3f51-4f2c-8f17-b4f2f971420a	Error	Block By CORS
+10-11-2022	10:23:49	617a9095-0633-4b43-ac91-b7a1f46bbc4d	Error	Block By CORS
+10-11-2022	10:24:16	dac9b912-eafd-4fc5-b266-c4a771d6babd	Error	Block By CORS
+10-11-2022	10:24:19	767dee91-287f-4db6-8620-3877a2b20508	Error	Block By CORS
+10-11-2022	12:26:33	806d3887-6093-40a7-b46e-9967e86a462f	ReferenceError	path is not defined
+10-11-2022	12:26:41	18e12644-bda3-4def-a633-8371b9531695	ReferenceError	path is not defined
+10-11-2022	12:26:42	b3979941-70fb-44ae-8ecd-2492a6c1f526	ReferenceError	path is not defined
+10-11-2022	12:27:23	9619e7ad-0cff-4b50-8438-166816990679	ReferenceError	path is not defined
+10-11-2022	12:27:45	f2dfb0e4-b7a3-4413-90e2-e642fec1296e	ReferenceError	path is not defined
+10-11-2022	12:27:47	d2f3266d-aca4-45f1-a2c0-78a8bed57c4a	ReferenceError	path is not defined
+10-11-2022	12:27:47	dea88138-0698-496d-86cf-14d99674bee6	ReferenceError	path is not defined
+10-11-2022	12:27:47	9b5186a9-30e0-4915-94fd-82d0f32d927e	ReferenceError	path is not defined
+10-11-2022	12:27:47	0788acbc-d23a-4a27-9fbb-fb212d2a0263	ReferenceError	path is not defined
+10-11-2022	12:27:47	bd16c1d2-c23f-4194-8e7c-57d787f21667	ReferenceError	path is not defined
+10-11-2022	12:27:48	285e1986-a918-498f-906a-cbceaad72f9f	ReferenceError	path is not defined
+10-11-2022	12:27:48	2e025fc7-2ba1-41fc-8763-280920a2172f	ReferenceError	path is not defined
+10-11-2022	12:29:12	104a7d65-09a3-482a-a0b8-0854109d94fa	ReferenceError	path is not defined
+10-11-2022	12:29:13	ff565c56-09ec-4c58-95aa-092d454bdd10	ReferenceError	path is not defined
+10-11-2022	12:29:13	540bfa4a-dbe0-4cbc-9168-fc1db7687403	ReferenceError	path is not defined
+10-11-2022	12:29:13	f9258c75-9865-446f-aab5-a81e21cae262	ReferenceError	path is not defined
+10-11-2022	12:29:14	29b2f815-ed4f-4bdf-b57f-55a89d9a5a6c	ReferenceError	path is not defined
+10-11-2022	12:29:14	64a33826-ca31-4bd4-9880-6a5c9c88d829	ReferenceError	path is not defined
+10-11-2022	12:30:19	7710286e-19b6-4a7a-8b23-407dd0f13acf	ReferenceError	path is not defined
+10-11-2022	12:32:26	122b7a6f-c3d5-4d60-8076-dcca932551d3	ReferenceError	path is not defined
+10-11-2022	12:32:31	feeae657-8bb5-41d5-a467-d14c5945697c	ReferenceError	path is not defined
+10-11-2022	12:33:11	4273823f-22d2-4e6f-8c90-63048c0f1169	ReferenceError	path is not defined
+10-11-2022	12:33:16	554323d9-99ed-4ae3-a638-c9ce81560e3d	ReferenceError	path is not defined
+10-11-2022	12:34:11	06950cd3-0b01-4ddd-b57e-c79fbf46051b	ReferenceError	path is not defined
+10-11-2022	12:34:11	28641dfd-4d34-4d81-bb9f-d8505dbc5ebf	ReferenceError	path is not defined
+10-11-2022	12:34:12	0b7855f6-5b1a-47f6-bea9-8d1edc2ba0f6	ReferenceError	path is not defined
+10-11-2022	12:34:12	b1046493-22d0-4358-adcb-06c43edf8023	ReferenceError	path is not defined
+10-11-2022	12:48:05	f93fe9af-0eda-4262-8011-938e5cb442cc	Error	Block By CORS
+10-11-2022	12:48:05	24400891-b35a-4bb5-863f-40fb59805fe3	Error	Block By CORS
+11-11-2022	08:25:28	806bb48a-fa0f-4493-be90-bd9d8a0149b4	Error	Block By CORS
+11-11-2022	08:26:45	77895ca8-91e5-4064-a59a-5d075e0adee0	Error	Block By CORS
+11-11-2022	08:26:56	4ac18857-3723-4046-81d4-8ec93d380018	Error	Block By CORS
+11-11-2022	08:27:36	eb499e88-59c4-4390-bcc2-4d9986794287	Error	Block By CORS
+11-11-2022	08:27:51	9ce60758-9ce2-490e-8ace-ef22e895d6c4	Error	Block By CORS
+11-11-2022	08:28:05	7e744f5e-b74f-4023-a28b-5b8883259cff	Error	Block By CORS
+11-11-2022	08:28:05	e306290d-afaa-48a2-922c-59ca94cf52fe	Error	Block By CORS
+11-11-2022	08:28:13	6239a956-ab0d-41ee-b2a4-070722467c9e	Error	Block By CORS
+11-11-2022	08:28:43	15ec2071-580e-4987-9a3c-c2b6d063bc4a	Error	Block By CORS
+11-11-2022	08:29:39	395b25f3-8a3e-4099-8d86-45d1e3cf5aa8	Error	Block By CORS
+11-11-2022	08:29:40	65706c72-479e-4637-8880-e5d915f1e9d4	Error	Block By CORS
+11-11-2022	08:29:56	2b15bbbd-d2b2-4504-b7c9-04a89afc081e	Error	Block By CORS
+11-11-2022	08:30:13	eb6bbc70-68cd-4fa5-8662-37de7720bc33	Error	Block By CORS
+11-11-2022	08:30:16	db9ab4fb-b4ad-4a69-a23a-aa962657507a	Error	Block By CORS
+11-11-2022	08:30:48	9dd4ef2d-0c89-400a-9c6b-016c2fdb0932	Error	Block By CORS
+11-11-2022	08:30:48	9e2fb266-665a-4928-af6f-a9d83d3c5209	Error	Block By CORS
+11-11-2022	08:31:09	9b9338ce-1983-40f1-8479-5b457a34d325	Error	Block By CORS
+11-11-2022	08:31:35	9ee9d10e-1a22-4999-8ceb-fe25e4525e4e	Error	Block By CORS
+11-11-2022	08:32:22	f1a4416f-361c-45c0-9cb4-23f9c53e99ce	Error	Block By CORS
+11-11-2022	08:32:51	51598934-066a-4032-b974-1e970f5faa33	Error	Block By CORS
+11-11-2022	08:32:52	4cfbdc0d-c73d-46e0-b3c1-e4d2227235b1	Error	Block By CORS
+11-11-2022	08:34:37	d28807a7-b2a0-4e64-89f1-4787829cdc2d	Error	Block By CORS
+11-11-2022	08:34:38	f7125f1e-8961-48d9-a86f-418d9513dade	Error	Block By CORS
+11-11-2022	08:36:04	735738a6-82e4-437a-b2ff-a82fc30228bb	Error	Block By CORS
+11-11-2022	08:37:36	fc0c7526-9df7-4088-b2ea-cb90c73fa36d	Error	Block By CORS
+11-11-2022	08:58:09	df8fa259-edba-4b1b-a16d-16a41f0ab086	TypeError	otherEmployees is not iterable
+11-11-2022	08:59:35	a5e0699c-fd92-4373-bae7-fd268b0808e4	SyntaxError	Unexpected token } in JSON at position 56
+11-11-2022	09:00:34	1cb1ee9a-ed50-4b2f-919b-21fe2b1ea192	ReferenceError	firstname is not defined
+11-11-2022	09:02:39	3837b128-423e-4539-9f79-81e7873d4756	ReferenceError	firstname is not defined
+12-11-2022	08:05:56	fbec0e3a-53ae-450b-bddb-a8e78c2bd676	Error	Cannot set headers after they are sent to the client
+12-11-2022	08:07:45	a8d26636-98b2-4425-b786-6e752426ffac	Error	Cannot set headers after they are sent to the client
+12-11-2022	08:11:43	496fcb24-7f58-4e36-bf77-118d6ac62f7e	JsonWebTokenError	secret or public key must be provided
+12-11-2022	08:14:53	54c772e4-2e0b-4633-902b-bc410a081840	TokenExpiredError	jwt expired
+12-11-2022	12:58:35	97a3c796-4dd2-450c-b99b-4c4333bd770a	TypeError	true is not a function
